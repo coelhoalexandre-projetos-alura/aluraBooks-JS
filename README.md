@@ -15,44 +15,41 @@
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 - [Layouts](#layouts)
-  - [Desktop Layout](#desktop-layout)
-  - [Tablet Layout](#tablet-layout)
-  - [Mobile Layout](#mobile-layout)
-- [Adaptações](#adaptações)
 - [Autor](#autor)
 
 ## Sobre o Projeto
 
-
+Um projeto com o objetivo de aprender os métodos de array. Esse projeto foi instruido por **[Guilherme Lima](https://github.com/guilhermeonrails)** no curso [JavaScript: métodos de array](https://cursos.alura.com.br/course/javascript-metodos-array). Através de um projeto real, ele mostra na pratica a utilidade de alguns métodos array.
 
 ## Objetivos do Projeto
 
-
+- Aprender a utilizar os principais métodos array do JavaScript;
+- Manipular valores de listas aplicando diferentes ordenações e filtros, como também criar uma nova lista com map;
+- Manipular o DOM com base nos métodos de array.
 
 ## Funcionalidades do Projeto
 
+Há 5 botões, cada um irá alterar a forma como a lista é apresentada:
 
+- **Livros de Front-end:** Irá exibir somente livros com a categoria "front-end".
+- **Livros de Back-end:** Irá exibir somente livros com a categoria "back-end".
+- **Livros de Dados:** Irá exibir somente livros com a categoria "dados".
+- **Livros Disponíveis:** Irá exibir somente livros que estão disponiveis. Também aparece um texto no fim da página "Todos os livros disponíveis por R$ [ValorTotal]."
+- **Ordernar por preço:** Os livros serão exibidos em ordem de menor preço à maior preço.
 
 ## Tecnolgias Utilizadas
 
-
+1. HTML
+2. CSS
+3. JS
 
 ## Layouts
 
-### Desktop Layout
-
-### Tablet Layout
-
-### Mobile Layout
-
-## Adaptações
+**Width 1920px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/alurabooksJS-1920px.jpg
 
 ## Autor
 
-- Nome(s), redes e forma de contato. 
-- Talvez um breve resumo sobre cada um.
-
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. [Falar sobre meu papel no projeto, seu eu fiz tudo ou só modifiquei.
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Com as instruções de **[Guilherme Lima](https://github.com/guilhermeonrails)**, fiz esse projeto focado nos métodos de arrays.
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
