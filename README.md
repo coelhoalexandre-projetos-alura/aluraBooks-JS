@@ -21,11 +21,11 @@
 |[JavaScript: métodos de array](https://cursos.alura.com.br/course/javascript-metodos-array)|**[Guilherme Lima](https://github.com/guilhermeonrails)**|
 
 ## Objetivos do Projeto
-Aprenda a utilizar os principais métodos de array do JavaScript
-Saiba como aplicar uma função em todos os elementos da lista com forEach
-Manipule os valores criando uma nova lista com map de forma prática
-Descubra como aplicar ordenação e filtros em seus projetos JavaScript
-Manipule o DOM com base nos métodos de array
+- Aprender a utilizar os principais métodos de array do JavaScript
+- Saber como aplicar uma função em todos os elementos da lista com forEach
+- Manipular os valores criando uma nova lista com map de forma prática
+- Descubrir como aplicar ordenação e filtros em seus projetos JavaScript
+- Manipular o DOM com base nos métodos de array
 
 ## Tecnolgias Utilizadas
 
